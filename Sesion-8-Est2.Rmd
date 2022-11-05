@@ -7,6 +7,8 @@ output:
   pdf_document: default
   html_document: default
 ---
+hello
+esto es una pruebaa
 
 ```{r,echo=FALSE, out.width="40%",fig.align="center"}
 knitr::include_graphics("logoPUCP.png") 
